@@ -8,8 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          shuvendu tao bujhlo na.
-          shuvendu gar mara66e.
+          shuvendu bokachoda.
         </p>
 
       </header>
